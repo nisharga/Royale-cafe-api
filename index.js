@@ -8,7 +8,7 @@ const coffee = [
   {
     id: 1,
     name: "Iced Espresso",
-    img: "./img/coffee1.jpg",
+    img: "https://i.ibb.co/qWLmrxF/coffee1.jpg",
     price: 14,
     description:
       "Like an iced coffee, iced espresso can be served straight or with a dash of milk, cream or sweetener.",
@@ -16,7 +16,7 @@ const coffee = [
   {
     id: 2,
     name: "Cold Brew",
-    img: "./img/coffee2.jpg",
+    img: "https://i.ibb.co/rFqFsXd/coffee2.jpg",
     price: 12,
     description:
       "The trendiest of the iced coffee bunch, cold brew coffees are made by steeping coffee beans from anywhere between 6-36 hours",
@@ -24,7 +24,7 @@ const coffee = [
   {
     id: 3,
     name: "Frappuccino",
-    img: "./img/coffee3.jpg",
+    img: "https://i.ibb.co/ysYKhvZ/coffee3.jpg",
     price: 11,
     description:
       "Made famous by Starbucks, the Frappuccino is a blended iced coffee drink thats topped with whipped cream and syrup",
@@ -32,7 +32,7 @@ const coffee = [
   {
     id: 4,
     name: "Nitro Coffee",
-    img: "./img/coffee4.jpg",
+    img: "https://i.ibb.co/JsnxfdN/coffee4.jpg",
     price: 5,
     description:
       "A cold brew + nitrogen bubbles = a cold brew coffee with a frothy, Guinness-like consistency",
@@ -40,7 +40,7 @@ const coffee = [
   {
     id: 5,
     name: "Sugar free Coffee",
-    img: "./img/coffee5.jpg",
+    img: "https://i.ibb.co/JzRYsyc/coffee5.jpg",
     price: 3,
     description:
       "A Sugar free Coffee is brew coffee with a frothy, Guinness-like consistency",
@@ -48,7 +48,7 @@ const coffee = [
   {
     id: 6,
     name: "Espresso Coffee",
-    img: "./img/coffee6.jpg",
+    img: "https://i.ibb.co/Rprp3Wf/coffee6.jpg",
     price: 50,
     description:
       "You can also ice speciality espresso-based drinks like americanos, mochas, macchiatos",

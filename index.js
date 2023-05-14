@@ -4,6 +4,12 @@ const bodyParser = require("body-parser");
 const app = express();
 const port = process.env.PORT || 5000;
 
+//middleware
+app.use(cors());
+app.use(bodyParser.json());
+app.use(express.json());
+
+
 const coffee = [
   {
     id: 1,
